@@ -1,0 +1,15 @@
+[14-Feb-2017 15:25:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:14 UTC] PHP Notice:  Undefined variable: db_con in /home/stonesga/public_html/management/community/index.php on line 100
+[14-Feb-2017 15:25:14 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/stonesga/public_html/management/community/index.php on line 100
+[14-Feb-2017 15:33:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:33:17 UTC] PHP Notice:  Undefined variable: db_con in /home/stonesga/public_html/management/community/index.php on line 100
+[14-Feb-2017 15:33:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/stonesga/public_html/management/community/index.php on line 100
+[14-Feb-2017 15:34:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:31:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:27:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 04:52:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 16:00:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 16:00:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 16:00:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:47:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3

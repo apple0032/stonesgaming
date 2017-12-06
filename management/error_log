@@ -1,0 +1,253 @@
+[14-Feb-2017 15:25:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:24 UTC] PHP Notice:  Undefined index: Username in /home/stonesga/public_html/management/announ_add.php on line 17
+[14-Feb-2017 15:25:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:25:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:30:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:34:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:34:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:34:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:39:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:39:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:39:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:40:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:40:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:40:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:40:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:40:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:41:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:41:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:41:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:41:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/stonesga/public_html/management/announ_list.php on line 79
+[14-Feb-2017 15:41:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:41:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:42:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:55:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 15:55:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:38:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:38:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:38:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:39:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:39:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:43:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 16:43:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[14-Feb-2017 17:04:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 02:18:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 10:37:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:33:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:33:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:39:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:40:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:40:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:41:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:41:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:44:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:44:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:44:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 11:46:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:47:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:47:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:53:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:53:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:55:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:56:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:57:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 11:57:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:04:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:05:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:05:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[15-Feb-2017 12:13:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:13:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 12:13:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:00:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:01:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:02:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:08:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:08:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:11:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 13:16:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:12:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:12:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:12:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:13:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:27:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:27:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 14:59:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 16:06:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[15-Feb-2017 16:06:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 03:00:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 03:01:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 03:52:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 04:52:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 04:52:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 05:08:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 05:08:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 05:39:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 05:40:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:40:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[16-Feb-2017 05:43:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:19:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:19:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:19:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:21:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:21:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:21:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 11:21:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 15:59:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[16-Feb-2017 16:00:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 01:49:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 03:09:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 04:40:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 05:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 05:03:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 05:03:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 07:54:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:21:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:21:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:21:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:29:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:36:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:36:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:36:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:36:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:36:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:36:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:36:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:37:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:42:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:48:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:48:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:48:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:49:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:49:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 11:51:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:51:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:51:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 11:51:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:01:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:03:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:03:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:03:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:04:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:04:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:05:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:05:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:16:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:16:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:16:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:27:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:27:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 12:27:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:15:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:19:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:19:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:19:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:19:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:19:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:19:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:19:52 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:19:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:32:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:33:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:33:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:45:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:46:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 13:46:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:46:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:46:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:46:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:46:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 13:46:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/stonesga/public_html/management/upload.php on line 43
+[17-Feb-2017 15:22:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 15:22:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[17-Feb-2017 15:22:28 UTC] PHP Notice:  Undefined variable: row5 in /home/stonesga/public_html/management/control_center.php on line 27
+[17-Feb-2017 15:22:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 04:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 04:41:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 07:19:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 07:19:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 07:40:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 07:40:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 14:58:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 15:05:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[18-Feb-2017 15:05:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 13:44:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 13:44:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 14:15:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 15:01:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 15:05:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 15:09:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 15:26:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 15:36:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 17:20:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3
+[19-Feb-2017 17:20:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/stonesga/public_html/Connections/connection.php on line 3

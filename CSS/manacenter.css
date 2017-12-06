@@ -1,0 +1,172 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/11     *
+* * * * * * * * * * * * * * * * *  */
+
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    font-family: myFont;
+    background: url(../images/manawall.png) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;　
+    background-size: cover;
+
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+@font-face {
+        font-family: narrow;
+        src:url('../font/ArialNarrow.ttf'),
+            url('../font/ArialNarrow.eot'),
+            url('../font/ArialNarrow.woff'),
+            url('../font/ArialNarrow-webfont#webfont');
+}
+
+@font-face {
+        font-family: tech;
+        src:url('../font/Digitaltech.ttf'),
+            url('../font/Digitaltech.eot'),
+            url('../font/Digitaltech.woff'),
+            url('../font/Digitaltech#webfont');
+    }
+
+#logpart{
+    width:100%;
+    text-align: center;
+    position:relative;
+	top:50%;
+    transform:translateY(120%);
+}
+
+#logpart h3{
+    font-family: tech;
+    color: #fff;
+    font-size:60px;
+    letter-spacing: 1px;
+}
+
+#main{
+    padding: 45px 150px;
+    border-radius: 2px;
+    background-color: rgba(255,255,255,0.5);
+    margin-top: 25px;
+    transition: all .3s;
+}
+
+#main:hover{
+    background-color: rgba(255,255,255,0.9);
+}
+
+#loginform{
+    text-align: center;
+    font-size:23px;
+}
+
+#loginform [type="text"]{
+    height: 25px;
+    width:100px;
+}
+
+#loginform [type="password"]{
+    height: 25px;
+    width:100px;
+}
+
+#loginform [type="submit"]{
+    border-radius: 10px;
+    background-color: #00A2D1;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    padding: 8px 23px 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    margin-left: 30px;
+    font-size:16px;
+}
+
+#loginform [type="submit"]:hover{
+    background-color: #24C0ED;
+}
+
+/********************************/
+
+#nav{
+    width:100%;
+    text-align: center;
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 50%;
+    height:140px;
+    margin-top:-130px;
+}
+
+
+#nav img{
+    width:110px;
+    height: auto;
+}
+
+.nav_menu{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.nav_menu a{
+    text-decoration: none;
+}
+
+.nav_menu:hover{
+    background-color: #9388B8;
+    border-radius:5px;
+}
+
+.nav_title{
+    color:#000;
+    font-size:22px;
+}
+
+#toptop img{
+    position: fixed;
+    width:50px;
+    height: auto;
+    right: 0;
+    bottom:0;
+    z-index:1;
+    cursor: pointer;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+#outout img{
+    position: fixed;
+    width:50px;
+    height: auto;
+    left: 0;
+    bottom:0;
+    z-index:1;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+

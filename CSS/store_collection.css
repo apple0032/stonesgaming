@@ -1,0 +1,357 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/01     *
+* * * * * * * * * * * * * * * * *  */
+
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+@font-face {
+        font-family: narrow;
+        src:url('../font/ArialNarrow.ttf'),
+            url('../font/ArialNarrow.eot'),
+            url('../font/ArialNarrow.woff'),
+            url('../font/ArialNarrow-webfont#webfont');
+}
+
+
+#detail_main{
+    border: 0px solid #fff;
+    letter-spacing: 0.5px;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#collection_toppest{
+    font-family: myfont;
+    color:#fff;
+    margin-bottom: 25px;
+}
+
+#collection_toppest_title{
+    font-size:35px;
+    margin-bottom: 5px;
+}
+
+#topbox_container{
+    margin-bottom: 120px;
+    width: 1050px;
+}
+
+#community_topbox1{
+    min-height: 400px;
+    width:750px;
+    margin-right: 10px;
+    background-image:linear-gradient(rgba(174,174,174,0.9),rgba(146,146,146,0.9));
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 25px 0px 30px 15px;
+    display: inline-block;
+    vertical-align: top;
+    box-shadow:4px 4px 22px 1px rgba(133,165,171,0.5);
+    font-family: myfont;
+}
+
+#community_topbox1 img{
+    width:350px;
+    height: 163px;
+    margin-right: 14px;
+    margin-left: 6px;
+    transition: all .4s;
+    box-shadow:2px 2px 10px 4px rgba(221,237,238,0.6);
+}
+
+#community_topbox1 img:hover{
+    box-shadow:2px 2px 4px 4px rgba(255,255,255,0.8);
+}
+
+#collect_img{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    color:#FFF;
+    font-size:19px;
+}
+
+
+#community_topbox2{
+    min-height: 440px;
+    width:210px;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(208,205,205,0.9));
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 5px 30px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 9px;
+    box-shadow:1px 1px 10px 1px rgba(133,165,171,0.3);
+    font-family: myfont;
+}
+
+#user_top{
+    padding: 1px 20px;
+    border-bottom: 1px dotted #000;  
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+
+#user_image{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#user_image img{
+    width:160px;
+    height: 160px;
+}
+
+#user_detail{
+    margin-top: 20px;
+    font-size:17px;
+}
+
+#user_detail i{ 
+    font-family:  "Courier New";
+    font-style: normal;
+    color:#5E5D78;
+    line-height: 27px;
+}
+
+#user_detail_title{
+    text-transform: uppercase;
+    font-size:20px;
+    margin-bottom: 15px;
+}
+
+#user_info{
+    margin-bottom: 15px;
+}
+
+/**************************************/
+
+#topbox1{
+    
+}
+
+#topbox2{
+    font-family: Cambria,Georgia,serif;
+    display: none;
+}
+
+#nogame{
+    text-align: center;
+    line-height: 28px;
+    margin-top: 150px;
+    font-size:20px;
+    color:#fff;
+}
+
+#nogame2{
+    text-align: center;
+    line-height: 28px;
+    margin-top: 175px;
+    font-size:20px;
+    color:#fff;
+}
+
+#nogame a,#nogame2 a{
+    font-style: none;
+    text-decoration: none;
+    color:#fff;
+    border-bottom: 1px dotted #fff;
+    transition: all .5s;
+}
+
+#nogame2 a:hover{
+    color:#000;
+}
+
+
+
+#clickhistory, #mycollect{
+    margin-top: 10px;
+    padding: 4px 3px;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.5);
+    transition: all .4s;
+    color:#000;
+}
+
+#clickhistory:hover, #mycollect:hover{
+    color:#fff;
+    background-color: #000;
+}
+
+#history_container{
+    margin-left: 15px;
+    margin-right: 40px;
+}
+
+#history{
+    font-family: myfont;
+    font-size:20px;
+    border-bottom: 1px dotted #000;
+}
+
+/************** TABLE ***************/
+
+strong {
+	font-weight: bold; 
+}
+
+em {
+	font-style: italic; 
+}
+
+table {
+	background-image:linear-gradient(rgba(253,253,253,0.9),rgba(194,221,231,0.9));
+	border-collapse: separate;
+	box-shadow: inset 0 1px 0 #fff;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: left;
+	width: 700px;
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    font-size:15px;
+}	
+
+th {
+	background: url(http://jackrugile.com/images/misc/noise-diagonal.png), linear-gradient(#777, #444);
+	border-left: 1px solid #555;
+	border-right: 1px solid #777;
+	border-top: 1px solid #555;
+	border-bottom: 1px solid #333;
+	box-shadow: inset 0 1px 0 #999;
+	color: #fff;
+	padding: 3px 3px;
+	position: relative;
+	text-shadow: 0 1px 0 #000;	
+    text-align: center;
+}
+
+th:after {
+	background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.08));
+	content: '';
+	display: block;
+	height: 25%;
+	left: 0;
+	margin: 1px 0 0 0;
+	position: absolute;
+	top: 25%;
+	width: 100%;
+}
+
+th:first-child {
+	border-left: 1px solid #777;	
+	box-shadow: inset 1px 1px 0 #999;
+    width:280px;
+}
+
+th:last-child {
+	box-shadow: inset -1px 1px 0 #999;
+}
+
+td {
+	border-right: 1px solid #fff;
+	border-left: 1px solid #e8e8e8;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #e8e8e8;
+	padding: 10px 15px;
+	position: relative;
+	transition: all 300ms;
+}
+
+td:first-child {
+	box-shadow: inset 1px 0 0 #fff;
+    font-size: 13px;
+}	
+
+td:last-child {
+	border-right: 1px solid #e8e8e8;
+	box-shadow: inset -1px 0 0 #fff;
+    font-size: 14px;
+    width:40px;
+}	
+
+tr {
+	background: url(http://jackrugile.com/images/misc/noise-diagonal.png);	
+}
+
+tr:nth-child(odd) td {
+	background: #f1f1f1 url(http://jackrugile.com/images/misc/noise-diagonal.png);	
+}
+
+tr:last-of-type td {
+	box-shadow: inset 0 -1px 0 #fff; 
+}
+
+tr:last-of-type td:first-child {
+	box-shadow: inset 1px -1px 0 #fff;
+}	
+
+tr:last-of-type td:last-child {
+	box-shadow: inset -1px -1px 0 #fff;
+}	
+
+tbody:hover > tr td {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.3;
+  /* uncomment for blur effect */
+  /* color:transparent;
+  @include text-shadow(0px 0px 2px rgba(0,0,0,0.8));*/
+}
+
+tbody:hover > tr:hover td {
+  text-shadow: none;
+  color: #2d2d2d;
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+}
+
+/*****************************************/
+
+#ps{
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    font-size:13px;
+    padding-top: 30px;
+}
+
+#no_purchase{
+    font-family: myfont;
+    text-align: center;
+    line-height: 28px;
+    margin-top: 170px;
+    font-size:20px;
+    color:#fff;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+

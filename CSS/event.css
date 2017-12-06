@@ -1,0 +1,150 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/07     *
+* * * * * * * * * * * * * * * * *  */
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    background-image: url(../images/temp.png);
+    background-size: cover;
+    background-attachment: fixed;　
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+    
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+#detail{
+    margin-bottom: 70px;
+    margin-top: 80px;
+}
+
+#detail_main{
+    border: 0px solid #fff;
+    letter-spacing: 0.5px;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#event_toppest{
+    font-family: myfont;
+    color:#fff;
+    margin-bottom: 15px;
+    margin-top: -50px;
+}
+
+#event_toppest_title{
+    font-size:35px;
+    margin-bottom: 5px;
+}
+
+#event_toppest_desc{
+    font-size:18px;
+}
+
+#event-logo{
+    text-align: center;
+    margin-top: -70px;
+    animation: fadein 3s;
+}
+
+#event-logo img{
+    width:700px;
+    height: auto;
+}
+
+.ajax-poll{
+    margin-left: -50px;
+}
+
+#trophy{
+    margin-left: -140px;
+}
+
+#trophy img{
+    height: 120px;
+    width:auto;
+    animation: fadein 1s;
+}
+
+#topbox{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#rise,#best{
+    vertical-align: top;
+}
+
+#best img{
+    width:250px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+#best{
+    text-align: center;
+}
+
+#topbox{
+    
+}
+
+#topbox img{
+    width:430px;
+    height: 201px;
+    border:2px solid #423833;
+    border-radius: 7px;
+    transition: all .4s;
+    margin-right: 20px;
+}
+
+.topgame{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.topname{
+    color:#fff;
+    font-family: myfont;
+    font-size:28px;
+}
+
+#rise:hover{
+    box-shadow:4px 4px 12px 4px rgba(255,255,255,.3);
+}
+
+#bot_part{
+    border-top:2px solid #4D4751;
+    border-bottom:2px solid #4D4751;
+    padding-top: 20px;
+    margin-bottom: 140px;
+    background-color:#231d27;
+}
+
+
+
+
+
+
+
+
+
+
+

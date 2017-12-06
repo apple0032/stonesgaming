@@ -1,0 +1,52 @@
+﻿@charset "utf-8";
+.login_form_style1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 360px;
+}
+.login_form_style2 {
+	height: 65px;
+	text-align: center; 
+}
+.login_form_style3 {
+	color: #993300;
+	font-size: 24px;
+}
+.login_form_style4 {
+	background-color: #DFECF0;
+	text-align: center; 
+}
+.login_form_style5 {
+	width: 100%;
+	height: 100%;
+	border-collapse: collapse;
+	font-size: 14px;
+}
+.login_form_style6 {
+	padding: 20px 2px 2px 2px;
+}
+.login_form_style7 {
+	background-color: #66CC66;
+	padding: 8px 20px 10px 20px;
+}
+.login_form_style8 {
+	padding: 4px;
+	margin-left: 8px;
+}
+.login_form_style9 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.login_form_style10 {
+	font-size: 14px;
+	padding-top: 10px;
+}
+.login_form_style11 {
+	color: #66CC00;
+	text-decoration: none;
+}
+.login_form_style12 {
+	height: 35px;
+	text-align: center; 
+	font-size: 24px;
+}

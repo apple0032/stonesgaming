@@ -1,0 +1,39 @@
+﻿.freshman_style1 {
+	border-collapse: collapse;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	color: #000000;
+}
+.freshman_style2 {
+	padding-left: 6px;
+	padding-top: 6px;
+}
+.freshman_style3 {
+	color: #DBAF00;
+	font-size: 18px;
+	padding-left: 4px;
+	padding-right: 4px;
+	font-weight: bolder;
+	height: 30px;
+}
+.freshman_style4 {
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.freshman_style5 {
+	color: #FF0000;
+	font-size: 14px;
+}
+.freshman_style6 {
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.freshman_style7 {
+	padding-left: 340px;
+}
+.freshman_style8 {
+	color: #6699FF;	
+}

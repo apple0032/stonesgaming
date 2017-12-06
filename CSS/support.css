@@ -1,0 +1,608 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/01     *
+* * * * * * * * * * * * * * * * *  */
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+#detail{
+    margin-bottom: 70px;
+    margin-top: 80px;
+}
+
+#detail_main{
+    border: 0px solid #fff;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#support_toppest{
+    font-family: myfont;
+    color:#fff;
+    margin-bottom: 15px;
+    margin-top: -50px;
+}
+
+#support_toppest_title{
+    font-size:40px;
+    margin-bottom: 5px;
+}
+
+#support_toppest_title img{
+    float: right;
+    width:45px;
+    height: auto;
+    margin-right: -100px;
+}
+
+#support_toppest_desc{
+    font-size:19px;
+}
+
+#topbox_container{
+    margin-top: 30px;
+    width: 950px;
+    font-family: myfont;
+    font-size: 20px;
+    height: 215px;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(194,221,231,0.9));
+    border-radius: 3px;
+    padding: 20px;
+    padding-left: 30px;
+    box-shadow:2px 2px 12px 1px rgba(149,212,212,0.5);
+}
+
+#community_question{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.ques{
+    margin-top: 7px;
+}
+
+.ques img{
+    width:15px;
+    height: 15px;
+}
+
+.ques a{
+    text-decoration: none;
+    color: #000;
+    transition: all .4s;
+}
+
+.ques a:hover{
+    border-bottom: 1px dotted #000;
+}
+
+#answer1,#answer2,#answer3,#answer4,#answer5,#answer6{
+    display: none;
+}
+
+.answer-box{
+    font-size:20px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.backbox{
+    padding:7px;
+    background-color: #73AFC5;
+    border-radius: 5px;
+    display: inline;
+    cursor: pointer;
+}
+
+.backbox:active{
+    color:#fff;
+}
+
+#support_more{
+    margin-top: 30px;
+    width: 950px;
+    font-family: myfont;
+    font-size: 18px;
+    min-height: 420px;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(194,221,231,0.9));
+    border-radius: 3px;
+    padding: 20px;
+    padding-left: 30px;
+    box-shadow:2px 2px 6px 1px rgba(149,212,212,0.5);
+}
+
+#support_more_form img{
+    width:70px;
+    height: auto;
+    float: right;
+    margin-top: -10px;
+}
+
+#post_form{
+    margin-top: 20px;
+}
+
+#post_topic{
+    font-family: Cambria,Georgia,serif;
+    font-size:18px;
+    margin-bottom: 5px;
+}
+
+#editor1{
+    width:100%;
+    height: 200px;
+    box-shadow:2px 2px 12px 1px rgba(149,212,212,0.5);
+    font-family: myfont;
+    resize: none;
+}
+
+
+#com_title{
+    width:85%;
+    height: 25px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    font-family: myfont;
+}
+
+#fCity{
+    margin-right: 10px;
+    width:13%;
+    height: 25px;
+    display: inline-block;
+    font-family: myfont;
+}
+
+#fCity:focus{
+    background-color: #48AFD4;
+}
+
+#post_form [type="submit"]{
+    border-radius: 10px;
+    background-color: #73AFC5;
+    border: 0;
+    color: white;
+    font-family: Cambria,Georgia,serif;
+    padding: 6px 20px 6px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    font-size:18px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#post_form [type="submit"]:hover{
+    background-color: #ae7bec;
+}
+
+#post_form [type="reset"]{
+    border-radius: 10px;
+    background-color: #73AFC5;
+    border: 0;
+    color: white;
+    font-family: Cambria,Georgia,serif;
+    padding: 6px 20px 6px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    font-size:18px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    margin-right: 5px;
+}
+
+#post_form [type="reset"]:hover{
+    background-color: #FA6182;
+}
+
+
+/************ ISSUE TABLE ************/
+
+/*
+RESPONSTABLE 2.0 by jordyvanraaij
+  Designed mobile first!
+
+If you like this solution, you might also want to check out the 1.0 version:
+  https://gist.github.com/jordyvanraaij/9069194
+*/
+#issue_table_title{
+    font-size:20px;
+    text-align: center;
+}
+
+.responstable {
+    margin: 1em 0;
+    width: 100%;
+    overflow: hidden;
+    background: #FFF;
+    color: #024457;
+    border-radius: 10px;
+    border: 1px solid #167F92;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.responstable tr {
+    border: 1px solid #D9E4E6;
+}
+.responstable tr:nth-child(odd) {
+    background-color: #EAF3F3;
+}
+.responstable th {
+    display: none;
+    border: 1px solid #FFF;
+    background-color: #167F92;
+    color: #FFF;
+    padding: 1em;
+}
+.responstable th:first-child {
+    display: table-cell;
+    text-align: center;
+    width:3%;
+}
+.responstable th:nth-child(2) {
+    display: table-cell;
+    width:10%;
+}
+.responstable th:nth-child(2) span {
+    display: none;
+}
+.responstable th:nth-child(2):after {
+    content: attr(data-th);
+}
+@media (min-width: 480px) {
+  .responstable th:nth-child(2) span {
+    display: block;
+  }
+  .responstable th:nth-child(2):after {
+    display: none;
+  }
+}
+.responstable td {
+    display: block;
+    word-wrap: break-word;
+    max-width: 7em;
+}
+.responstable td:first-child {
+    display: table-cell;
+    text-align: center;
+    border-right: 1px solid #D9E4E6;
+}
+@media (min-width: 480px) {
+  .responstable td {
+    border: 1px solid #D9E4E6;
+  }
+}
+.responstable th, .responstable td {
+  text-align: left;
+    margin: .5em 1em;
+}
+@media (min-width: 480px) {
+  .responstable th, .responstable td {
+    display: table-cell;
+    padding: 1em;
+  }
+}
+
+#table_detail{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size:20px;
+    display: none;
+    padding: 20px;
+}
+
+#table_detail_new img{
+    width:30px;
+    height: auto;
+    float: right;
+    margin-top: 20px;
+}
+
+#replyornot{
+    text-align: center;
+}
+
+#replyornot img{
+    width:50px;
+    height: auto;
+}
+
+#support_area{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#support_area_desc{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#support_area_desc i{
+    border-bottom: 1px dotted #000;
+}
+
+#support_area_desc a{
+    text-decoration: none;
+    color: #000;
+    transition: all .4s;
+}
+
+#support_area_desc a:hover{
+    color:#fff;
+}
+
+/************** CASE DETAILS ************/
+
+#support_case_no{
+    text-align: center;
+    margin-top: 145px;
+    font-size:21px;
+}
+
+#support_case_no a{
+    text-decoration: none;
+    padding-bottom: 2px;
+    border-bottom: 1px dotted #000;
+    color:#000;
+}
+
+#support_box{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#case_table_top{
+    border:1px solid #9791A9;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+#case_table_top i{
+    float: right;
+}
+
+#case_table_content1 img{
+    width:70px;
+    height: auto;
+    margin-right: 30px;
+}
+
+#case_table_content{
+    width: 950px;
+    min-height: 80px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #9791A9;
+}
+
+#case_table_content2{
+    width:900px;
+    text-align: left;
+}
+
+#waitanswer{
+    font-size:21px;
+    text-align: center;
+    margin-top:70px;
+}
+
+#waitanswerbutton{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#waitanswerbutton a{
+    color: #000;
+    text-decoration: none;
+    padding:5px 20px 5px 20px;
+    border-radius: 3px;
+    background-color: #AEC2C5;
+    transition: all .4s;
+}
+
+#waitanswerbutton a:hover{
+    color:#4d4d4d;
+    background-color: rgba(217,228,230,0.8);
+}
+
+#again-form{
+    margin-top: 50px;
+}
+
+#support_time{
+    float: right;
+    font-size:13px;
+}
+
+
+#end_form [type="submit"]{
+    border-radius: 10px;
+    background-color: #D05E6A;
+    border: 0;
+    color: white;
+    font-family: Cambria,Georgia,serif;
+    padding: 6px 20px 6px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    font-size:18px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    text-align: right;
+    display: inline-block;
+}
+
+#end_form [type="submit"]:hover{
+    background-color: #DD6F7B;
+}
+
+
+/************** Management ************/
+
+.responstable2 {
+    margin: 1em 0;
+    width: 100%;
+    overflow: hidden;
+    background: #FFF;
+    color: #024457;
+    border-radius: 10px;
+    border: 1px solid #167F92;
+    margin-top: 20px;
+}
+.responstable2 tr {
+    border: 1px solid #D9E4E6;
+}
+.responstable2 tr:nth-child(odd) {
+    background-color: #EAF3F3;
+}
+.responstable2 th {
+    display: none;
+    border: 1px solid #FFF;
+    background-color: #167F92;
+    color: #FFF;
+    padding: 1em;
+}
+.responstable2 th:first-child {
+    display: table-cell;
+    text-align: center;
+    width:3%;
+}
+.responstable2 th:nth-child(2) {
+    display: table-cell;
+    width:1px;
+}
+
+.responstable2 td:nth-child(2) {
+    text-align: center;
+}
+
+.responstable2 th:nth-child(2) span {
+    display: none;
+}
+.responstable2 th:nth-child(2):after {
+    content: attr(data-th);
+}
+@media (min-width: 480px) {
+  .responstable2 th:nth-child(2) span {
+    display: block;
+  }
+  .responstable2 th:nth-child(2):after {
+    display: none;
+  }
+}
+.responstable2 td {
+    display: block;
+    word-wrap: break-word;
+}
+.responstable2 td:first-child {
+    display: table-cell;
+    text-align: center;
+    border-right: 1px solid #D9E4E6;
+}
+@media (min-width: 480px) {
+  .responstable2 td {
+    border: 1px solid #D9E4E6;
+  }
+}
+.responstable2 th, .responstable2 td {
+  text-align: left;
+    margin: .5em 1em;
+}
+@media (min-width: 180px) {
+  .responstable2 th, .responstable2 td {
+    display: table-cell;
+    padding: 5px;
+  }
+}
+
+#manatime{
+    font-size: 15px;
+    font-family: Cambria,Georgia,serif;
+}
+
+#status{
+    line-height: 31px;
+}
+
+/*  #gap{
+    height: 200px;
+} */
+
+#action{
+    text-align: center;
+}
+
+#action img{
+    width:50px;
+    height: 50px;
+}
+
+#gmlogin img{
+    float: right;
+    width:105px;
+    height: auto;
+    margin-right: -100px;
+}
+
+#faq img{
+    float: right;
+    width:90px;
+    height: auto;
+    margin-right: -70px;
+    margin-top: -15px;
+}
+
+#delete_form{
+    display: inline-block;
+    float: right;
+}
+
+#end_form{
+    display: inline-block;
+}
+
+
+#delete_form [type="submit"]{
+    border-radius: 10px;
+    background-color: #EEC9CD;
+    border: 0;
+    color: #000;
+    font-family: Cambria,Georgia,serif;
+    padding: 6px 20px 6px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    font-size:18px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    text-align: right;
+}
+
+#delete_form [type="submit"]:hover{
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+

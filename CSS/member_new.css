@@ -1,0 +1,180 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/1/02      *
+* * * * * * * * * * * * * * * * *  */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+    background-image: url(../images/about_wall2.png);
+    background-color: #363636;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+h2{
+	font-size:36px;
+	font-weight:normal;
+	color:rgba(255,255,255,.7);
+	margin-bottom:30px;
+	padding-bottom:20px;
+	border-bottom:1px solid rgba(255,255,255,.4);
+}
+
+#loginbox{
+    width:540px;
+    height: 700px;
+    border-radius: 5px;
+    background-color: rgba(242,242,242,0.8);
+    padding: 20px;
+    margin-left: auto; 
+	margin-right: auto;	
+    margin-top: 50px;
+    margin-bottom: 80px; 
+    font-family: Cambria,Georgia,serif;
+    box-shadow: 3px 2px 1.5px rgba(0, 0, 0, 0.2);
+}
+
+#register{
+    width:500px;
+    height: 630px;
+    border-radius: 5px;
+    background-color: rgba(242,242,242,0.4);
+    padding: 20px;
+    box-shadow: 2px 2px 1.5px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    font-size:12px;
+}
+
+#register h2{
+    color: #433378;
+    border-bottom: 0px solid rgba(67,51,120,0.4);
+}
+
+#register_main input,#register_main h4{
+    margin-top: 20px;
+}
+
+#register_main #hideit{
+    display: none;
+}
+
+#register_main input{
+    border: 0px solid #3e3939;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 25px;
+}
+
+
+#register_main input:hover{
+    border: 2px solid #a2cae7;
+}
+
+#register_submit input,#register_submit2 input{
+    border: 0px;
+    font-size: 14px;
+    color: #fff;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px 30px;
+    text-decoration: none;
+    transition: all .5s;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#register_submit input{
+    background-color: #5979bf;
+}
+
+#register_submit2 input{
+    background-color: #c76fc7;
+}
+
+#register_submit input:hover{
+    background-color: #6386d4;
+}
+
+#register_submit2 input:hover{
+    background-color: #D891D8;
+}
+
+#register_notice,#register_notice2{
+    width:435px;
+    height: 75px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 2px 2px 1.5px rgba(0, 0, 0, 0.2);
+    margin-top: -50px;
+    padding-top: 10px;
+    padding-right: 35px;
+    font-size:13.5px;
+}
+
+#register_notice{
+    background-image:  linear-gradient(#A2CAE7,#98bcd6);
+}
+
+#register_notice2{
+    background-image:  linear-gradient(#f6b9f6,#e99aea);
+}
+
+#update_no input{
+    background-color: rgba(242,242,242,0.4);
+}
+
+
+.demo--label{
+    margin:20px 20px 0 0;
+    display:inline-block
+}
+
+.demo--radio{
+    display:none
+}
+
+.demo--radioInput{
+    background-color:#fff;
+    border:1px solid rgba(0,0,0,0.15);
+    border-radius:100%;
+    display:inline-block;
+    height:16px;
+    margin-right:10px;
+    margin-top:-1px;
+    vertical-align:middle;
+    width:16px;
+    line-height:1;
+    transition: all .5s;
+}
+
+.demo--radioInput:hover{
+    border:1px solid #5979BF;
+}
+
+.demo--radio:checked + .demo--radioInput:after{
+    background-color:#5979BF;
+    border-radius:100%;
+    content:"";
+    display:inline-block;
+    height:12px;
+    margin:2px;
+    width:12px
+}
+
+.demo--checkbox.demo--radioInput,.demo--radio:checked + .demo--checkbox.demo--radioInput:after{
+    border-radius:0
+}
+
+
+
+
+
+
+

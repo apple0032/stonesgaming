@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+body{
+    overflow-x: hidden;
+    background-image: url(../images/about_wall2.png);
+    background-color: #363636;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+#store_main_container{
+    border: 0px solid #fff;
+    width:800px;
+    margin-top: 50px;
+    margin-left: 50%;
+    transform:translateX(-50%);
+}
+
+#store_main_game{
+    background-color: rgba(0,0,0,.3);
+    width:800px;
+    height:173px;
+    border-radius: 2px;
+    margin-bottom: -28px;
+    transition: all .2s;
+}
+
+#store_main_game:hover{
+    background-color: rgba(0,0,0,.6);
+}
+
+
+#store_main_game img{
+    width:338px;
+    height: 169px;
+}
+
+#store_main_game a{
+    text-decoration: none;
+}
+
+#store_main_game h1{
+    font-size: 26px;
+    color: rgba(246,246,246,0.9);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+    font-weight:lighter;
+    text-shadow: 1px 1px #000000;
+}
+
+#store_main_game_title{
+    margin-left: 17px;
+    display: block;
+}
+
+#store_main_game_author{
+    font-size: 12px;
+    margin-left: 17px;
+    margin-top: 5px;
+    display: block;
+    color: rgba(246,246,246,0.9);
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+    font-weight:lighter;
+}
+
+#store_main_game_saleprice{
+    margin-top: 20px;
+}
+
+#store_main_game_saleprice b{
+    margin-left: 17px;
+    color:#fff;
+    font-size: 20px;
+    background-color: rgba(255,0,0,0.7);
+    border-radius: 2px;
+}
+
+#store_main_game_topseller{
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+#store_main_game_topseller h5{
+    border-radius: 2px;
+    display: inline;
+    font-size: 16px;
+    color:#fff;
+    background-color: rgba(0,184,255,0.9);
+}
+
+#store_main_game_buy{
+    font-family: Rockwell,"Courier Bold",Courier,Georgia,Times,"Times New Roman",serif;
+    margin-left: 300px;
+    text-transform: uppercase;
+    background-color: rgba(255,255,255,0.3);
+    width:150px;
+    border-radius: 3px;
+    transition: all .5s;
+    margin-top: -20px;
+}
+
+#store_main_game_buy:hover{
+    background-color: rgba(255,255,255,1);
+}
+
+#store_main_game_buy a:hover{
+    color:#000;
+}
+
+#store_main_game_buy a{
+    text-decoration: none;
+    color:#fff;
+    transition: all .5s;
+}
+
+#store_main_gap{
+    height: 350px;
+}
+
+#store_main_gap2{
+    font-family: myfont;
+    color: #fff;
+    font-size:35px;
+    margin-bottom: 5px;
+    width:800px;
+    margin-top: 50px;
+    margin-left: 50%;
+    transform:translateX(-50%);
+}
+
+#search_no{
+    text-align: center;
+    width:100%;
+    height:50px;
+    margin-top: -300px;
+}
+
+#search_no div{
+    font-size:19px;
+    font-family: Cambria,Georgia,serif;
+    color:#fff; 
+}
+
+
+
+

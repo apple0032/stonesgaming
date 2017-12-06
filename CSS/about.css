@@ -1,0 +1,356 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/01     *
+* * * * * * * * * * * * * * * * *  */
+
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+@font-face {
+        font-family: narrow;
+        src:url('../font/ArialNarrow.ttf'),
+            url('../font/ArialNarrow.eot'),
+            url('../font/ArialNarrow.woff'),
+            url('../font/ArialNarrow-webfont#webfont');
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+
+#top {
+    background-image:linear-gradient(rgba(101,101,101,1),rgba(99,99,99,1));
+    padding-bottom: 20px;
+}
+
+#main {
+    width: 100%;
+    background-image: url(../images/about_wall2.png);
+    background-color: #000;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#detail_main{
+    font-family: myfont;
+    color:#fff;
+    letter-spacing: 0.5px;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px solid #000;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#detail_main_title{
+    font-size:35px;
+    margin-bottom: 5px;
+}
+
+#detail_main_desc{
+    font-size:18px;
+}
+
+#main_cotainer{
+    letter-spacing: 0.5px;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+#bigshop{
+    font-family: myfont;
+    color:#E9E5F9;
+    letter-spacing: 0.5px;
+    font-size:18px;
+    margin-top: 100px;
+    width: 100%; 
+    animation: fadein 2s;
+}
+
+#bigshop img{
+    width:200px;
+    height: auto;
+    margin-right: 45px;
+}
+
+#bigshop td:nth-child(2){
+    padding-top: 15px;
+}
+
+#server{
+    font-family: myfont;
+    color:#E9E5F9;
+    letter-spacing: 0.5px;
+    font-size:18px;
+    margin-top: 70px;
+    width: 100%; 
+    animation: fadein 2s;
+}
+
+#server img{
+    width:200px;
+    height: auto;
+    margin-left: 45px;
+}
+
+#server td:nth-child(1){
+    padding-top: 45px;
+}
+
+
+#filemana{
+    font-family: myfont;
+    color:#E9E5F9;
+    letter-spacing: 0.5px;
+    font-size:18px;
+    margin-top: 100px;
+    width: 100%; 
+    opacity: 0;
+}
+
+#filemana img{
+    width:170px;
+    height: auto;
+    margin-right: 45px;
+}
+
+#filemana td:nth-child(2){
+    padding-top: 30px;
+}
+
+
+#commu{
+    font-family: myfont;
+    color:#E9E5F9;
+    letter-spacing: 0.5px;
+    font-size:18px;
+    margin-top: 70px;
+    width: 100%; 
+    opacity: 0;
+}
+
+#commu img{
+    width:200px;
+    height: auto;
+    margin-left: 45px;
+}
+
+#commu td:nth-child(1){
+    padding-top: 60px;
+}
+
+#andalso{
+    color:#fff;
+    font-family: myfont;
+    font-size:45px;
+    text-align: center;
+    margin-top: 220px;
+    margin-bottom: 320px;
+    opacity: 0;
+}
+
+#function_container{
+    width:100%;
+    opacity: 0; 
+    margin-bottom: 300px;
+}
+
+.box{
+    width:24%;
+    display:inline-block;
+    text-align: center;
+}
+
+.box img {
+    width:110px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.boxdesc{
+    color:#fff;
+    font-family: myfont;
+    font-size:27px;
+}
+
+#joinus{
+    width: 100%;
+    height: 200px;
+    background-image:linear-gradient(rgba(185,227,240,1),rgba(170,218,234,1));
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+    box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+}
+
+#joinbox1{
+    letter-spacing: 2.5px;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+    color:#000;
+    font-family: myfont;
+    font-size:30px;
+    padding-top: 50px;
+    opacity: 0; 
+}
+
+#joinbox2{
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: myfont;
+    font-size:21px;
+    margin-top: 10px;
+    color: #000;
+    opacity: 0; 
+}
+
+#joinbox2 a{
+    padding: 6px 30px 6px 30px;
+    background-color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 0.4s;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+    box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 1px 0 rgba(255,255,255,.2);
+}
+ 
+#joinbox2 a:hover{
+    color:#fff;
+    background-color: #CC5D7F;
+}
+
+#hidebox{
+    float: right;
+    margin-top: -70px;
+    margin-right: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+
+#hidebox:hover{
+    opacity: 1;
+}
+
+#hidebox img{
+    width:50px;
+    height: 50px;
+}
+
+#joinbox_container{
+   
+}
+
+#hidebox_container{
+    letter-spacing: 2.5px;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+    font-family: myfont;
+    display: none;
+}
+
+.realbox{
+    text-transform: uppercase;
+    font-size:25px;
+    margin-top: 7px;
+    border-radius: 4px;
+}
+
+.realbox:hover{
+    background-color: aliceblue;
+}
+
+.realbox a{
+    text-decoration: none;
+    color:#000;
+}
+
+
+#gap{
+    width:900px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#learnmore{
+    color:#fff;
+    font-family: myfont;
+    font-size:45px;
+    text-align: center;
+    margin-bottom: 400px;
+    opacity: 0;
+}
+
+.doc{
+    display: inline-block;
+    font-size:21px;
+    padding: 3px 10px 3px 10px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    transition: all .4s;
+}
+
+.doc a{
+    text-decoration: none;
+    color:#000;
+}
+
+.doc a:hover{
+    color:#fff;
+}
+
+.doc:hover{
+     background-color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

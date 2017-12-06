@@ -1,0 +1,467 @@
+@charset "utf-8";
+
+body{
+   
+}
+
+#detail{
+    margin-bottom: 40px;
+}
+
+#detail_main{
+    border: 0px solid #fff;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#detail_path{
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:12px;
+}
+
+#detail_path a{
+    text-decoration: none;
+    color:#AFA7CC;
+    transition: all .2s;
+}
+
+#detail_path a:hover{
+    color:#fff;
+}
+
+#detail_title{
+    font-family: Cambria,Georgia,serif;
+    font-size:26px;
+    margin-top: 10px;
+}
+
+#detail_info{
+    margin-top: 10px;
+    width:1100px;
+    background-image:linear-gradient(rgba(85,91,99,0.7),rgba(116,118,120,0.5));
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#detail_info_left{
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    top:0;
+}
+
+#detail_info_left img{
+    width:400px;
+    height: 187px;
+    margin-left: 5px;
+}
+
+#detail_info_right{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#detail_info_content{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width:400px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:15px;
+    color: #c2cbe7;
+    text-shadow: 1px 1px #000000;
+}
+
+#detail_info_publish{
+    margin-left: 15px;
+    margin-bottom: -10px;
+    width:400px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:12px;
+    color: #dedfe5;
+    text-shadow: 1px 1px #000000;
+}
+
+#detail_info_category{
+    margin-left: 15px;
+    margin-top: -10px;
+    width:400px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:12px;
+    color: #dedfe5;
+    text-shadow: 1px 1px #000000;
+}
+
+#detail_info_author{
+    margin: 15px;
+    width:400px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:12px;
+    color: #dedfe5;
+    text-shadow: 1px 1px #000000;
+}
+
+#detail_info_author b{
+    border-bottom: 1px dotted #fff;
+}
+
+
+#detail_info_special{
+    margin: 15px;
+    margin-top: 5px;
+    width:400px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:12px;
+    color: #dedfe5;
+    text-shadow: 1px 1px #000000;
+}
+
+#detail_img1{
+    margin-top: 10px;
+}
+
+#detail_img1 img{
+    width:630px;
+    height: 353px;
+    border:1px solid #838383;
+    border-radius: 3px;
+    transition: all .4s;
+}
+
+#detail_small{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#detail_small img{
+    width:120px;
+    height: 67px;
+    transition: all .3s;
+}
+
+#detail_small img:hover{
+    opacity: 0.5;
+}
+
+/********************************/
+
+
+#detail_main2{
+    border: 0px solid #fff;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width:1100px;
+    background-image:linear-gradient(rgba(93,100,109,0.5),rgba(176,176,176,0.5));
+    margin-top: 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
+
+#detail_info_about_title{
+    margin-left: 35px;
+    margin-top: 30px;
+    width:1030px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+    border-bottom: 1px dotted #fff;
+}
+
+#detail_info_about{
+    margin-top: 30px;
+    margin-left: 55px;
+    width:1020px;
+    font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+}
+
+#detail_main3{
+    border: 0px solid #fff;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width:1100px;
+    height: 150px;
+    background-image:linear-gradient(rgba(93,100,109,0.6),rgba(112,116,122,0.6));
+    margin-top: 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding-top: 1px;
+    
+}
+
+
+#detail_info_buy{
+    margin-left: 35px;
+    margin-top: 30px;
+    width:1030px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+    border-bottom: 1px dotted #fff;
+}
+
+#detail_info_price{
+    margin-left: 35px;
+    margin-top: 30px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:26px;
+    color: #dedfe5;
+    display: inline-block;
+}
+
+#detail_info_price b{
+    color:#99d9f2;
+}
+
+#detail_info_purchase{
+    margin-top: 20px;
+    display: inline-block;
+    font-size:26px;
+    color:#fff;
+    float: right;
+    margin-right: 50px;
+    padding: 7px 20px 7px 15px;
+    background-color: RGBA(153,217,242,0.3);
+    border-radius: 4px;
+    font-family: Cambria,Georgia,serif;
+    transition: all .3s;
+}
+
+#detail_info_purchase:hover{
+    background-color: RGBA(153,217,242,1);
+}
+
+#detail_info_purchase img{
+    width:25px;
+    height: 25px;
+    margin-right: 10px; 
+}
+
+#detail_main4{
+    border: 0px solid #fff;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width:1100px;
+    background-image:linear-gradient(rgba(93,100,109,0.5),rgba(117,122,129,0.5));
+    margin-top: 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding-top: 1px;
+}
+
+#detail_info_related{
+    margin-left: 35px;
+    margin-top: 30px;
+    width:1030px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+    border-bottom: 1px dotted #fff;
+}
+
+#detail_info_relateinfo{
+    margin-top: 30px;
+    margin-left: 55px;
+    width:1020px;
+    font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+}
+
+#detail_info_relateinfo a{
+    text-decoration: none;
+    color: #dedfe5;
+    border-bottom: 1px dotted #fff;
+}
+
+
+#imgPreviewWithStyles {
+    background: #222;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 15px;
+    z-index: 999;
+    border: none;
+}
+
+/* Text below image */
+#imgPreviewWithStyles span {
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 10px 0 3px 0;
+    display: none;
+} 
+
+#detail_main5{
+    border: 0px solid #fff;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width:1100px;
+    background-image:linear-gradient(rgba(99,99,99,0.8),rgba(116,116,116,0.8));
+    margin-top: 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    padding-top: 1px;    
+}
+
+#detail_comment_title{
+    margin-left: 35px;
+    margin-top: 30px;
+    width:1030px;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:16px;
+    color: #dedfe5;
+    border-bottom: 1px dotted #fff;
+}
+
+#comment_form{
+    margin-left: 35px;
+    margin-top: 50px;
+    border-top: 1px solid #fff;
+    width:1030px;
+}
+
+#comment_form textarea{
+    resize: none;
+}
+
+#comment_form [type="submit"]{
+    background-color: #DFECFF;
+    border: 0;
+    color: #000;
+    font-family: Cambria,Georgia,serif;
+    padding: 1px 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    font-size:16px;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#comment_form [type="submit"]:hover{
+    background-color: #B1C8EA;
+}
+
+#comment{
+    color:#000;
+}
+
+#comment_submit{
+    color:#717983;
+    width:70px;
+    height: 23px;
+    
+}
+
+#comment_box{
+    width:1010px;
+    margin-left: 35px;
+    padding: 10px 10px 30px 15px;
+    background-image:linear-gradient(rgba(115,169,229,0.5),rgba(115,169,229,0.5));
+    margin-top: 10px;
+    border-radius: 1px;
+    color:
+}
+
+#comment_box_name{
+    font-family: Cambria,Georgia,serif;
+    padding-bottom: 7px;
+    border-bottom: 1px dotted #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+#member{
+    width:20px;
+    height: 20px;
+}
+
+#admin{
+    width:30px;
+    height: 30px;
+}
+
+#comment_box_comment{
+    margin-top: 8px;
+    color:#dbd7e7;
+}
+
+#comment_anonymous{
+    font-style:oblique;
+    font-size: 15px;
+    margin-left: 15 px;
+}
+
+#comment_box_time{
+    float: right;
+    font-size: 12px;
+    font-family: Cambria,Georgia,serif;
+    color: #94acc9;
+}
+
+
+#comment_wanna{
+    font-family: Cambria,Georgia,serif;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#detail_main5_gap{
+    height: 40px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

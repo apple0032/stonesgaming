@@ -1,0 +1,325 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/11     *
+* * * * * * * * * * * * * * * * *  */
+
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    font-family: myFont;
+    background: url(../images/black-wall.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;　
+    background-size: cover;
+    color: aliceblue;
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+@font-face {
+        font-family: narrow;
+        src:url('../font/ArialNarrow.ttf'),
+            url('../font/ArialNarrow.eot'),
+            url('../font/ArialNarrow.woff'),
+            url('../font/ArialNarrow-webfont#webfont');
+}
+
+@font-face {
+        font-family: tech;
+        src:url('../font/Digitaltech.ttf'),
+            url('../font/Digitaltech.eot'),
+            url('../font/Digitaltech.woff'),
+            url('../font/Digitaltech#webfont');
+    }
+
+#detail{
+    width:100%;
+    text-align: center;
+}
+
+#title{
+    border-bottom: 2px solid #fff;
+}
+
+#title h3 i{
+    font-family: narrow;
+    font-style: normal;
+    color:#66E768;
+    font-size:22px;
+}
+
+#detail h3{
+    font-family: tech;
+    font-size:40px;
+    letter-spacing: 1px;
+}
+
+#community_main img{
+    width:40px;
+    height: auto;
+    float:left;
+}
+
+#addgame img{
+    width:40px;
+    height: auto;
+    float:right;
+    margin-top: 10px;
+}
+
+#community_main{
+    padding: 75px 150px;
+    border-radius: 2px;
+}
+
+#post_form{
+    text-align: center;
+    font-size:27px;
+    margin-top: 25px;
+}
+
+#content1{
+    width:600px;
+    height: 200px;
+}
+
+
+#ckeditor{
+    height: 700px;
+}
+
+#post_form [type="text"]{
+    height: 25px;
+    width:400px;
+}
+
+
+#post_form [type="submit"],#post_form [type="reset"]{
+    border-radius: 10px;
+    background-color: #00A2D1;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    padding: 8px 23px 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    margin-left: 30px;
+    font-size:16px;
+}
+
+#post_form [type="submit"]:hover,#post_form [type="reset"]:hover{
+    background-color: #24C0ED;
+}
+
+#post_form i{
+    font-family: Cambria,Georgia,serif;
+}
+
+#notice{
+    font-family: Cambria,Georgia,serif;
+    color:#000;
+    padding: 10px;
+    background-color: aliceblue;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+#upload-guide{
+    width:100%;
+    background-color: #fff;
+    margin-top: 50px;
+    padding: 20px;
+    font-size:35px;
+    color: #000;
+}
+
+#upload{
+    margin-top: 50px;
+}
+
+#upload i{
+    font-style:normal;
+    font-size: 25px;
+}
+
+#upload [type="submit"]{
+    border-radius: 10px;
+    background-color: #00A2D1;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    padding: 8px 23px 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: all .5s;
+    margin-left: 30px;
+    font-size:16px;
+}
+
+#upload [type="submit"]:hover{
+    background-color: #24C0ED;
+}
+
+/***************************************/
+/********* Table LIST *********/
+
+table {
+  border-collapse: separate;
+  background: #fff;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin: 50px auto;
+  -moz-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+thead {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+thead th {
+  font-family: myfont;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: 20px;
+  background-image: linear-gradient(#646f7f, #4a5564);
+  border-top: 1px solid #858d99;
+}
+thead th:first-child {
+  -moz-border-radius-topleft: 5px;
+  -webkit-border-top-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+thead th:last-child {
+  -moz-border-radius-topright: 5px;
+  -webkit-border-top-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+tbody tr td {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #5f6062;
+  font-size: 15px;
+  padding: 20px 20px 20px 20px;
+  border-bottom: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+tbody tr td a{
+    color: #5f6062;
+    text-decoration: none;
+    font-family: myfont;
+    font-size:19px;
+}
+
+tbody tr:nth-child(2n) {
+  background: #f0f3f5;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+tbody tr:last-child td:first-child {
+  -moz-border-radius-bottomleft: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+tbody tr:last-child td:last-child {
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+tbody:hover > tr td {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
+  /* uncomment for blur effect */
+  /* color:transparent;
+  @include text-shadow(0px 0px 2px rgba(0,0,0,0.8));*/
+}
+
+tbody:hover > tr:hover td {
+  text-shadow: none;
+  color: #2d2d2d;
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+}
+
+#modify{
+    text-align: center;
+}
+
+#modify img{
+    width:25px;
+    height: auto;
+}
+
+
+/***************************************/
+/********* Deliver *********/
+
+#summary_list{
+    width:970px;
+    height:115px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(194,221,231,0.9));
+    border-radius: 10px;
+    color: #000;
+    font-size:24px;
+    padding-top: 20px;
+    line-height: 29px;
+    box-shadow:2px 2px 12px 1px rgba(149,212,212,0.5);
+}
+
+#summary_list i{
+    font-family: Cambria,Georgia,serif;
+}
+
+
+#summary{
+    width:500px;
+    height:115px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(194,221,231,0.9));
+    border-radius: 10px;
+    color: #000;
+    font-size:24px;
+    padding-top: 20px;
+    line-height: 29px;
+    box-shadow:2px 2px 12px 1px rgba(149,212,212,0.5);
+}
+
+#summary i{
+    font-family: Cambria,Georgia,serif;
+}
+
+
+
+
+
+
+
+
+
+
+

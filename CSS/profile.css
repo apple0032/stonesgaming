@@ -1,0 +1,359 @@
+/* * * * * * * * * * * * * * * * * *
+*      CSS by KENIP 2017/02/24     *
+* * * * * * * * * * * * * * * * *  */
+
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    font-family: myFont;
+}
+
+@font-face {
+        font-family: myFont;
+        src:url('../font/Raleway-Light.ttf'),
+            url('../font/raleway-light-webfont.eot'),
+            url('../font/raleway-light-webfont.woff'),
+            url('../font/raleway-light-webfont#webfont');
+    }
+
+@font-face {
+        font-family: narrow;
+        src:url('../font/ArialNarrow.ttf'),
+            url('../font/ArialNarrow.eot'),
+            url('../font/ArialNarrow.woff'),
+            url('../font/ArialNarrow-webfont#webfont');
+}
+
+@font-face {
+        font-family: tech;
+        src:url('../font/Digitaltech.ttf'),
+            url('../font/Digitaltech.eot'),
+            url('../font/Digitaltech.woff'),
+            url('../font/Digitaltech#webfont');
+    }
+
+@font-face {
+        font-family: raj;
+        src:url('../font/Rajdhani-Medium.ttf'),
+            url('../font/Rajdhani-Medium.eot'),
+            url('../font/Rajdhani-Medium.woff'),
+            url('../font/Rajdhani-Medium#webfont');
+    }
+
+#name{
+    color:#fff;
+}
+
+#mainbox{
+    width:1200px;
+    min-height: 700px;
+    border-radius: 1px;
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(208,205,205,0.9));
+    padding: 15px;
+    margin-left: auto; 
+	margin-right: auto;	
+    margin-top: 50px;
+    margin-bottom: 80px; 
+    box-shadow: 3px 2px 1.5px rgba(0, 0, 0, 0.2);
+}
+
+#user_detail{
+    background-image:linear-gradient(rgba(218,243,255,0.9),rgba(218,243,255,0.6));
+    padding: 15px;
+    min-height: 670px;
+    max-width:230px;
+    text-align: center;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+
+#user_top{
+    font-family: raj;
+    text-transform: uppercase;
+    font-size:28px;
+    margin-bottom: 25px;
+}
+
+#user_image{
+    margin-top: 10px;
+}
+
+#user_image img{
+    width:200px;
+    height: 200px;
+}
+
+#user-title{
+    margin-top: 10px;
+    font-family:myfont;
+    text-transform: uppercase;
+    font-size:23px;
+}
+
+#user_info{
+    text-align: left;
+    color: #000;
+    font-family:myfont;
+    margin-top: 30px;
+    font-size:18px;
+    line-height: 36px;
+    border-top: 1px dotted #266B81;
+    padding-top: 10px;
+    padding-left: 13px;
+}
+
+#user_info i{
+    font-family:raj;
+    font-style: normal;
+    font-size:17px;
+    color:#266B81;
+    letter-spacing: 1px;
+}
+
+#btn {
+    text-align: center;
+    background: #9acae6;
+    width:200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:200px;
+    margin-top: -205px;
+    font-size: 15px;
+    display: none;
+    font-family:narrow; 
+}
+
+#user_image:hover + #btn{
+    display: block;
+}
+
+
+/***************************************************/
+
+#user_detail2{
+/*  background-image:linear-gradient(rgba(253,253,253,0.9),rgba(208,205,205,0.9)); */
+    padding: 15px;
+    min-height: 640px;
+    width:880px;
+    margin-left: 10px;
+    border-radius: 2px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+#user_game{
+    display: inline-block;
+}
+
+#user_game img{
+    width:160px;
+    height: 74px;
+    transition: all .2s;
+    margin: 2px;
+}
+
+#user_game img:hover{
+    box-shadow:4px 4px 22px 1px rgba(133,165,171,0.9);
+}
+
+
+#user_collection{
+    color:#000;
+    font-family: raj;
+    font-size:19px;
+}
+
+#user_collection_box{
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(241,255,255,0.9));
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 1px;
+    min-height: 55px;
+}
+
+#user_community_post{
+    margin-top: 30px;
+    color:#000;
+    font-family: raj;
+    font-size:19px;
+}
+
+#user_community_post_box{
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(241,255,255,0.9));
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 3px;
+    min-height: 90px;
+    font-family: myfont;
+    letter-spacing: -1px;
+    text-transform: none;
+}
+
+#post_title{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#post_title tr:first-child {
+    border-bottom: 2px solid #000;
+    height: 30px;
+}
+
+#post_title tr:nth-child(1) td:nth-child(1){
+    width:80%;
+    text-align: center;
+}
+
+#post_title tr:nth-child(1) td:nth-child(2){
+    width:10%;
+    text-align: center;
+}
+
+#post_title tr:nth-child(1) td:nth-child(3){
+    width:10%;
+    text-align: center;
+}
+
+#post_title tr td{
+    border-bottom: 1px dotted #000;
+}
+
+#post_title tr td a{
+    text-decoration: none;
+    color:#000;
+    padding: 5px;
+}
+
+#post_title tr:not(:first-child):hover {
+    background-image:linear-gradient(rgba(159,159,159,0.9),rgba(214,221,231,0.9));
+}
+
+#no_post{
+    font-family: raj;
+    text-transform: ;
+    color:#000;
+    font-size:19px;
+    letter-spacing: 0px;
+}
+
+/************ Friend System ************/
+
+
+#request,#friend_list{
+    margin-top: 30px;
+    color:#000;
+    font-family: raj;
+    font-size:19px;
+}
+
+#request_box,#friend_listbox{
+    background-image:linear-gradient(rgba(253,253,253,0.9),rgba(241,255,255,0.9));
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 3px;
+    min-height: 50px;
+    font-family: myfont;
+    letter-spacing: -1px;
+    text-transform: none;
+}
+
+#request_sender{
+    background-image:linear-gradient(rgba(154,188,227,0.9),rgba(136,172,212,0.9)); 
+    padding: 12px 12px 12px 20px;
+    font-size:19px;
+    border-radius: 2px;
+    letter-spacing: 0px;
+    transition: all .4s;
+}
+
+#request_sender:hover{
+    background-image:linear-gradient(rgba(174,234,234,0.9),rgba(152,225,225,0.9));
+}
+
+#request_sender a{
+    text-decoration: none;
+    color: #000;
+}
+
+#accept, #reject{
+    display: inline-block;
+    font-family: raj;
+    font-size:19px;
+    background-image:linear-gradient(rgba(25,242,138,0.9),rgba(18,225,126,0.9));
+    padding: 1px 13px 1px 13px;
+    margin-top: 10px;
+    border: 1px dotted #000;
+    transition: all .3s;
+}
+
+#accept:hover, #reject:hover{
+    background-image:linear-gradient(rgba(136,212,164,0.9),rgba(155,231,183,0.9));
+    border: 1px solid #000;
+}
+
+.firnedbox{
+    background-color: rgba(182,232,234,0.9);
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1) inset, 0 1px 0 rgba(255,255,255,.1);
+}
+
+.firnedbox:hover{
+    background-color: rgba(145,210,212,0.9);
+}
+
+.firnedbox img{
+    width:80px;
+    height: 80px;
+}
+
+.firnedbox i{
+    font-style: normal;
+    font-family: raj;
+}
+
+.firnedbox a{ 
+    text-decoration: none;
+    color: #000;
+    text-transform: lowercase;
+}
+
+#request_fd{
+    text-align: center;
+    background-image:linear-gradient(rgba(25,242,138,0.9),rgba(18,225,126,0.9));
+    margin-top: 15px;
+    font-family: raj;
+    letter-spacing: 1px;
+    font-size:20px;
+}
+
+#request_fd a{
+    text-decoration: none;
+    color: black;
+}
+
+#request_pend{
+    text-align: center;
+    background-image:linear-gradient(rgba(212,145,159,0.9),rgba(195,114,131,0.9));
+    margin-top: 15px;
+    font-family: raj;
+    letter-spacing: 1px;
+    font-size:20px;
+}
+
+
+
+
+
+
+
+
+
