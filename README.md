@@ -1,5 +1,7 @@
 # Stones Gaming
 
+![avatar](http://upload.lsforum.net/users/public/l25275ssg229.png)
+
 Basic function:
 
  * Shopping Cart
