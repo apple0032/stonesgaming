@@ -2,7 +2,7 @@
 
 ![avatar](http://upload.lsforum.net/users/public/l25275ssg229.png)
 
-URL: [http://stonesgaming.com/]
+## URL: http://stonesgaming.com/
 
 Basic function:
 
