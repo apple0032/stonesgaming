@@ -13,6 +13,7 @@ Basic function:
  * Online forum
  * Online Poll
  * Online ticket system
+ * Friendship system
  * CMS
  
  ### Notes
